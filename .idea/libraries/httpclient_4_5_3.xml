@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="httpclient-4.5.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/solr/httpclient-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/httpmime-4.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="zookeeper-3.4.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/solr/zookeeper-3.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/woodstox-core-asl-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/stax2-api-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/noggit-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/jcl-over-slf4j-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solr/commons-io-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

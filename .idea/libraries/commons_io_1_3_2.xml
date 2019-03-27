@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-io-1.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lucene/commons-io-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene/IKAnalyzer6.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene/lucene-analyzers-common-6.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene/lucene-core-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene/lucene-highlighter-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene/lucene-memory-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene/lucene-queryparser-7.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/lucene-core-7.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

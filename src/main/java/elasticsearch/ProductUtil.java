@@ -20,7 +20,7 @@ public class ProductUtil {
 
     public static List<Product> file2list(String fileName) {
         File file = new File(fileName);
-        List<Product> products = new ArrayList<>();
+        List<Product> products = new ArrayList();
         try {
             List<String> lines = FileUtils.readLines(file,"UTF-8");
             for (String line : lines){

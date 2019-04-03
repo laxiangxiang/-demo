@@ -126,7 +126,7 @@ public class TestLuceneForProduct {
         TopDocs topDocs = searcher.search(query,pageNow*pageSize);
         System.out.println("查询到的总条数\t"+topDocs.totalHits);
         ScoreDoc[] allScores = topDocs.scoreDocs;
-        List<ScoreDoc> hitScores = new ArrayList<>();
+        List<ScoreDoc> hitScores = new ArrayList();
         int start = (pageNow -1)*pageSize;
         int end = pageSize*pageNow;
         for (int i = start;i < end;i++){

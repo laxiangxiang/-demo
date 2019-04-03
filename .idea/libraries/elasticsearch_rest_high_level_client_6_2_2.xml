@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="elasticsearch-rest-high-level-client-6.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch/elasticsearch-rest-high-level-client-6.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
